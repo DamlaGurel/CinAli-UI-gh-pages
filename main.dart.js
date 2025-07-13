@@ -8210,7 +8210,7 @@ auf:function auf(){},
 rk:function rk(a){this.a=a},
 rp:function rp(a){this.a=a},
 rq:function rq(a){this.a=a},
-baA(){var s=new A.a8h(A.bca(A.baI("cinali-api-deployment-production.up.railway.app/api",B.q8,null,null,B.q8,B.k8,new A.a8i())))
+baA(){var s=new A.a8h(A.bca(A.baI("https://cinali-api-deployment-production.up.railway.app/api",B.q8,null,null,B.q8,B.k8,new A.a8i())))
 s.acJ()
 return s},
 a8h:function a8h(a){this.a=a
