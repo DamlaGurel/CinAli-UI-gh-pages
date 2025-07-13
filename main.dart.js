@@ -8210,7 +8210,7 @@ auf:function auf(){},
 rk:function rk(a){this.a=a},
 rp:function rp(a){this.a=a},
 rq:function rq(a){this.a=a},
-baA(){var s=new A.a8h(A.bca(A.baI("https://cinali-api-production.up.railway.app/api",B.q8,null,null,B.q8,B.k8,new A.a8i())))
+baA(){var s=new A.a8h(A.bca(A.baI("cinali-api-deployment-production.up.railway.app/api",B.q8,null,null,B.q8,B.k8,new A.a8i())))
 s.acJ()
 return s},
 a8h:function a8h(a){this.a=a
@@ -31823,7 +31823,7 @@ return a}if(!B.c.n(a,"/")){A.J("\u26a0\ufe0f Path appears to be just a filename,
 a="images/"+a}if(B.c.bg(a,"api/")){s=B.c.bS(a,4)
 A.J("\ud83d\udd04 Removed api/ prefix: "+s)}else s=a
 if(B.c.bg(s,"/")){s=B.c.bS(s,1)
-A.J("\ud83d\udd04 Removed leading slash: "+s)}r="https://cinali-api-production.up.railway.app/"+s
+A.J("\ud83d\udd04 Removed leading slash: "+s)}r="https://cinali-api-deployment-production.up.railway.app/"+s
 A.J("\u2705 Formatted URL: "+r)
 return r},
 aeI(a,b,c,d){return A.bcW(a,b,c,d)},
