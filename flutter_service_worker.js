@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "02573e52b60f9e2e84858bee6a6cacdc",
+const RESOURCES = {"flutter_bootstrap.js": "a2c0a53bd1f99dbc74fed7e54882f633",
 "version.json": "be1d7114dd59e8d46fea116a9a8d8940",
 "index.html": "d0990810591d6b4a9f652fcd97bcbb80",
 "/": "d0990810591d6b4a9f652fcd97bcbb80",
-"main.dart.js": "0ec7f27e315bdd04aba782442bc70b46",
+"main.dart.js": "f636c4051ce813292dee55ccb87b8e22",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "85c86a7d7945a8dce3df7db23c63bf6d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "02573e52b60f9e2e84858bee6a6cacdc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "7d8e06625c510daf036fa25971eb459f",
-"assets/fonts/MaterialIcons-Regular.otf": "c9651874f68ba9a34713faeab2156a15",
+"assets/fonts/MaterialIcons-Regular.otf": "b960ee983188f55e4e5b54dc347ca80f",
 "assets/assets/pics/cinalimuze.jpeg": "67e452091f4b251f4c19a20472ee7ca1",
 "assets/assets/fonts/FuturaPT-Book.ttf": "7fe7749499282203940bd8393a7d70ce",
 "assets/assets/fonts/FuturaPT-Demi.ttf": "84a5b3528f25de01b902831231f16c57",
