@@ -8238,7 +8238,7 @@ auY:function auY(){},
 rB:function rB(a){this.a=a},
 rF:function rF(a){this.a=a},
 rG:function rG(a){this.a=a},
-bdp(){var s=new A.a8P(A.beZ(A.b1q("http://localhost:5258/api",B.j5,null,null,B.j5,B.hS,new A.a8Q())))
+bdp(){var s=new A.a8P(A.beZ(A.b1q("https://cinali-api-deployment-production.up.railway.app/api",B.j5,null,null,B.j5,B.hS,new A.a8Q())))
 s.adv()
 return s},
 a8P:function a8P(a){this.a=a
@@ -32147,7 +32147,7 @@ if(a==null||B.c.b2(a).length===0)return"assets/pics/cinalimuze.jpeg"
 if(J.aXu(a,"http://")||B.c.bo(a,"https://"))return a
 if(!B.c.n(a,"/"))a="images/"+a
 s=B.c.bo(a,"api/")?B.c.bV(a,4):a
-return"http://localhost:5258/"+(B.c.bo(s,"/")?B.c.bV(s,1):s)},
+return"https://cinali-api-deployment-production.up.railway.app/"+(B.c.bo(s,"/")?B.c.bV(s,1):s)},
 afh(a,b,c,d){return A.bfL(a,b,c,d)},
 bfL(a,b,c,d){var s=0,r=A.u(t.y),q,p=2,o=[],n,m
 var $async$afh=A.v(function(e,f){if(e===1){o.push(f)
@@ -122474,7 +122474,7 @@ s($,"bs2","b8Z",()=>new A.a9G())
 r($,"bxF","c7",()=>$.b8Z())
 r($,"bwZ","aXb",()=>B.Hz)
 s($,"byl","bcr",()=>new A.aoT())
-s($,"bss","b97",()=>A.bf_(A.b1q("http://localhost:5258/api",B.j5,null,null,B.j5,B.hS,null)))
+s($,"bss","b97",()=>A.bf_(A.b1q("https://cinali-api-deployment-production.up.railway.app",B.j5,null,null,B.j5,B.hS,null)))
 s($,"bxP","bcj",()=>A.hm(new A.aV7(),t.hg))
 s($,"bxO","ns",()=>A.fH(new A.aV6(),t.J0,t.j))
 s($,"by3","bcm",()=>A.hm(new A.aVr(),t.jv))
