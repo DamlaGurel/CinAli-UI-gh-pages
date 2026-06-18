@@ -54214,16 +54214,15 @@ A.ab0.prototype={
 $0(){return this.a.b},
 $S:507}
 A.ab1.prototype={
-$2(a,b){var s,r,q=a.c
-if(q==null)q=0
-s=a.b.a
-s===$&&A.a()
-r=!1
-if(q>=200)if(q<300)if(s.toUpperCase()!=="GET"){s=a.a
-s=t.f.b(s)&&s.h(0,"message")!=null}else s=r
-else s=r
-else s=r
-if(s)this.a.b.M($.cP().ga3(),t.C).dA(J.ax(a.a,"message"),B.dK)
+$2(a,b){var s,r,q,p=a.c
+if(p==null)p=0
+s=a.b
+r=s.a
+r===$&&A.a()
+q=B.c.n(s.cx,"/Report/")
+s=!1
+if(p>=200)if(p<300)if(r.toUpperCase()!=="GET")if(!q){s=a.a
+s=t.f.b(s)&&s.h(0,"message")!=null}if(s)this.a.b.M($.cP().ga3(),t.C).dA(J.ax(a.a,"message"),B.dK)
 b.la(a)},
 $S:139}
 A.ab2.prototype={
@@ -54745,7 +54744,7 @@ r.w=s},
 l(){$.a8.fZ(this)
 this.aq()},
 rH(a){if(a===B.d4)this.gah().M($.aal(),t.b0).zW()},
-akx(){var s=null,r=$.b5w(),q=A.fo(new A.aFg(),"/"),p=A.fo(new A.aFh(),"/login"),o=t.yo,n=A.b([A.fo(new A.aFi(),"/user"),A.fo(new A.aFt(),"/user/ticketsaleslistscreen"),A.fo(new A.aFu(),"/user/shopsaleslistscreen"),A.fo(new A.aFv(),"/user/cafesaleslistscreen"),A.fo(new A.aFw(),"/user/checklistscreen"),A.fo(new A.aFx(),"/user/eventsaleslistscreen"),A.fo(new A.aFy(),"/user/ticketsales"),A.fo(new A.aFz(),"/user/shopsales"),A.fo(new A.aFA(),"/user/Cafesales"),A.fo(new A.aFj(),"/user/Eventsales")],o)
+akx(){var s=null,r=$.b5w(),q=A.fo(new A.aFg(),"/"),p=A.fo(new A.aFh(),"/login"),o=t.yo,n=A.b([A.fo(new A.aFi(),"/user"),A.fo(new A.aFt(),"/user/ticketsaleslistscreen"),A.fo(new A.aFu(),"/user/shopsaleslistscreen"),A.fo(new A.aFv(),"/user/cafesaleslistscreen"),A.fo(new A.aFw(),"/user/checklistscreen"),A.fo(new A.aFx(),"/user/eventsaleslistscreen"),A.fo(new A.aFy(),"/user/ticketsales"),A.fo(new A.aFz(),"/user/shopsales"),A.fo(new A.aFA(),"/user/cafesales"),A.fo(new A.aFj(),"/user/Eventsales")],o)
 q=A.b([q,p,new A.ru(new A.aFk(),new A.b4(s,t.b7),!0,s,n,s),A.fo(new A.aFl(),"/admin"),A.fo(new A.aFm(),"/admin/categories"),A.fo(new A.aFn(),"/admin/products"),A.fo(new A.aFo(),"/admin/tickets"),A.fo(new A.aFp(),"/admin/stocks"),A.fo(new A.aFq(),"/admin/reports"),A.fo(new A.aFr(),"/admin/users"),A.fo(new A.aFs(),"/admin/events")],o)
 return A.bkE(!1,s,s,s,s,"/",r,s,s,!1,s,!0,s,!1,new A.a0g(new A.atQ(q,A.bvj(),5,s)))},
 H(a){var s=this.w
